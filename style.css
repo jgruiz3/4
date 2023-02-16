@@ -1,0 +1,8 @@
+table,tr, td,th{
+  border: 2px solid pink;
+}
+iframe{border-radius: 15%;
+}
+table,tr,td,th {
+  color: white;
+}
